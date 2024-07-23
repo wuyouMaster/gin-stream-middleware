@@ -1,4 +1,4 @@
-package main
+package gin-stream-middleware
 
 import (
 	"bytes"
