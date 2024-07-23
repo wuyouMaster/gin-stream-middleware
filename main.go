@@ -3,8 +3,6 @@ package ginStreamMiddleware
 import (
 	"bytes"
 	"fmt"
-	"time"
-	"io"
 	"net/http"
 	"github.com/gin-gonic/gin"
 )
